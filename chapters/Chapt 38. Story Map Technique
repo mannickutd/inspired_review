@@ -1,0 +1,6 @@
+## Chapter 38 Story Map Technique
+- Discovery Planning Technique
+- Great for communicating with your team and stakeholders. Practical role in managing and organizing a product managers work. Story map is helpful throughout product discovery and delivery.
+- The origin of story maps came from frustration with the typical flat backlog of user stories. There's no context, just a prioritized list of stories. how can the team know how one story fits in with the big picture? What does it even mean to even prioritize at that granularity with so little context? And what set of stories consistutes a meaningful milestone or a release?
+- These are two dimensional maps, in which major user activities are arrayed along the horizontal dimension, loosly ordered by time from left to right. Ordered generally in the order the user would use them or the order in which you would describe them. Along the vertical dimension, we have a progressive level of detail. As we flesh out each major activity into sets of user tasks, we add stories for each of those tasks. The critical tasks are higher vertically than the optional tasks.
+- High fidelity user prototype and a story map as their go-to technique for teams.
